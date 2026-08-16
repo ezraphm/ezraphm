@@ -2,12 +2,12 @@
 
 I'm **Cuong Pham**, a developer from Vietnam 🇻🇳
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Architecting+AI+Gateway;Building+Autonomous+Agents;Refining+macOS+Experiences;Automating+Everything)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Architecting+AI+Gateway;Building+Autonomous+Agents;Refining+macOS+Experiences;Automating+Everything)](https://git.io/typing-svg)
 
 ---
 
 ### 🚀 Featured Projects
-**[Trove](https://github.com/ezraphm/trove)**
+**[Trove](https://github.com/ezraphm/trove) 🔒**
 > *Markdown-vault hybrid memory provider for Hermes Agent*
 
 **[LiveDeck](https://github.com/ezraphm/LiveDeck) 🔒**
@@ -47,7 +47,7 @@ I'm **Cuong Pham**, a developer from Vietnam 🇻🇳
 ---
 
 ### 📫 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/cedric-pham) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ezraphm)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/ezraphm) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ezraphm)
 
 ---
 
