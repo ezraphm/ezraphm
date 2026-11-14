@@ -4,12 +4,11 @@ I build macOS apps and practical tools, and explore how automation and AI agents
 
 [Portfolio](https://ezraphm.com/) · [LinkedIn](https://www.linkedin.com/in/ezraphm) · [X](https://x.com/ezraphm) · [Telegram](https://t.me/ezraphm)
 
-## What I'm working on
+## What I'm building
 
-**LiveDeck** — a macOS live wallpaper app built with SwiftUI, currently in development.
+- **LiveDeck** — a macOS live wallpaper app built with SwiftUI. In development.
+- **[estack](https://github.com/ezraphm/skills)** — a personal collection of reusable AI agent skills written in Markdown.
 
-**[estack](https://github.com/ezraphm/skills)** — a personal collection of reusable AI agent skills written in Markdown.
+## Tools I use
 
-## Areas of interest
-
-macOS · Swift & SwiftUI · developer tools · automation · AI agent workflows
+![Swift, Python, JavaScript, TypeScript, Git, Docker and Cloudflare](https://skillicons.dev/icons?i=swift,python,js,ts,git,docker,cloudflare&theme=dark)
